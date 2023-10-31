@@ -1,0 +1,4 @@
+Fitur web ini berisi:
+- Home
+- About
+- Contact
